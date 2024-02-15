@@ -2187,9 +2187,9 @@ input, select, textarea {
 		}
 
 			.image.avatar img {
-				border-radius: 100%;
-				display: block;
-				width: 100%;
+				border-radius: 50%;
+				width: 10rem;
+				height: 10rem;
 			}
 
 		.image.main {
